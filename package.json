@@ -1,0 +1,27 @@
+{
+  "name": "express",
+  "version": "0.0.1",
+  "description": "Express app with ejs",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.10.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express":"*",
+    "ejs":"*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shymans/Express.git"
+  },
+  "author": "GNU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shymans/Express/issues"
+  },
+  "homepage": "https://github.com/shymans/Express"
+}
